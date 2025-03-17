@@ -1,0 +1,4 @@
+[submodule "OXORDPH/Computer-Solutions-Repair-Center"]
+	path = OXORDPH/Computer-Solutions-Repair-Center
+	url = git@github.com:OXORDPH/Computer-Solutions-Repair-Center.git
+	branch = main
