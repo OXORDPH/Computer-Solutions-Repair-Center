@@ -1,5 +1,5 @@
 {
-    'name': 'Custom Logo',
+    'name': 'oxordlogo',
     'version': '1.0',
     'category': 'Customization',
     'summary': 'Custom Logo and Favicon for Odoo',
