@@ -11,8 +11,8 @@
     'data': [],
     'assets': {
         'web.assets_backend': [
-            '/custom_logo/static/src/img/oxord-icon-512x512.png',
-            '/custom_logo/static/src/img/favicon.ico',
+            'custom_logo/static/src/img/oxord-icon-512x512.png',
+            'custom_logo/static/src/img/favicon.ico',
         ],
     },
     'installable': True,
