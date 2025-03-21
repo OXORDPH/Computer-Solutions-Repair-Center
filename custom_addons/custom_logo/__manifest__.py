@@ -5,7 +5,7 @@
     'summary': 'Custom Logo and Favicon for Odoo',
     'description': 'This module replaces the default Odoo logo and favicon with custom images.',
     'author': 'OXORDPH',
-    'website': 'https://github.com/OXORDPH/Computer-Solutions-Repair-Center',
+    'website': 'https://oxordph-computer-solutions-repair-center.odoo.com/',
     'license': 'LGPL-3',
     'depends': ['web'],
     'data': [],
