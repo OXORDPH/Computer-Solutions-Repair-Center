@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
-    <template id="assets_backend" inherit_id="web.assets_backend" name="Custom Favicon">
+    <template id="assets_backend" inherit_id="web.assets_common" name="Custom Favicon">
         <xpath expr="//link[@rel='shortcut icon']" position="replace">
             <link rel="shortcut icon" type="image/png" href="/custom_logo/static/img/favicon.png"/>
         </xpath>
