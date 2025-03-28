@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <odoo>
-    <template id="assets_backend" name="Custom Logo Assets" inherit_id="web.assets_backend">
+    <template>
+        <data inherit_id="web.assets_common">
         <xpath expr="." position="inside">
             <link rel="icon" type="image/x-icon" href="/custom_logo/static/src/img/favicon.ico"/>
         </xpath>
