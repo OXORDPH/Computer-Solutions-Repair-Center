@@ -2,7 +2,7 @@
 <odoo>
     <template id="assets_backend" name="Custom Logo Assets" inherit_id="web.assets_backend">
         <xpath expr="." position="inside">
-            <link rel="icon" type="image/x-icon" href="Computer-Solutions-Repair-Center/custom_addons/custom_logo/static/src/img/favicon.ico"/>
+            <link rel="icon" type="image/x-icon" href="/custom_logo/static/src/img/favicon.ico"/>
         </xpath>
     </template>
 </odoo>

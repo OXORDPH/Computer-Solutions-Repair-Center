@@ -13,8 +13,8 @@
 ],
     'assets': {
         'web.assets_backend': [
-            'Computer-Solutions-Repair-Center/custom_addons/custom_logo/static/src/img/oxord-icon-512x512.png',
-            'Computer-Solutions-Repair-Center/custom_addons/custom_logo/static/src/img/favicon.ico',
+            '/custom_logo/static/src/img/oxord-icon-512x512.png',
+            '/custom_logo/static/src/img/favicon.ico',
         ],
     },
     'installable': True,
